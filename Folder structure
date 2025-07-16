@@ -1,0 +1,5 @@
+codsoft-ecommerce/
+│
+├── index.html
+├── style.css
+└── images/ (optional for product images)
